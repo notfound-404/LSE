@@ -1,3 +1,3 @@
 # Challenge LSE
 
-Have fun
+Have fun.
